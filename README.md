@@ -5,11 +5,6 @@
 - 🐘 Atualmente atuo como Desenvolvedor usando PHP.
 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight"/>
-</div>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Cadu-PHP" height="49" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
