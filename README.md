@@ -5,9 +5,9 @@
 - 🐘 Atualmente atuo como Desenvolvedor usando PHP.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight&langs_count=8&hide=html,css&cache_seconds=1800"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 </div>
 
 
