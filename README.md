@@ -5,18 +5,7 @@
 - 🐘 Atualmente atuo como Desenvolvedor usando PHP.
 
 
-<div align="center">
-  <a href="https://github.com/C4d5">
-    <img src="https://komarev.com/ghpvc/?username=C4d5&style=flat-square&color=7157da" alt="Profile Views" />
-  </a>
-</div>
 
-### 📊 Minhas Estatísticas & Tecnologias
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight&langs_count=6&hide=html,css&hide_border=true" width="48%" />
-</div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Cadu-PHP" height="49" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 <img align="center" alt="Cadu-C#" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg">
