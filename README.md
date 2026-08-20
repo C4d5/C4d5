@@ -5,6 +5,12 @@
 - 🐘 Atualmente atuo como Desenvolvedor usando PHP.
 
 
+<div> 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight&langs_count=6&hide=html,css"/>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
+</div>
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Cadu-PHP" height="49" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
