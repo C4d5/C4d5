@@ -6,9 +6,10 @@
 
 
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight&langs_count=6&hide=html,css"/>
+  <!-- Substitua 'SEU-PROJETO' pelo link que a Vercel gerou para você -->
+  <img height="180em" src="https://Himalaia-1.2v.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight&langs_count=6&hide=html,css"/>
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight"/> 
+  <img height="180em" src="https://Himalaia-1.2v.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
 </div>
 
 <div style="display: inline_block"><br>
