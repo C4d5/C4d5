@@ -6,9 +6,12 @@
 
 
 <div align="center">
-  <img src="https://images.weserv.nl/?url=github-readme-stats-c4-d5.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://images.weserv.nl/?url=github-readme-stats-c4-d5.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <a href="https://github.com/C4d5">
+    <img src="https://github-readme-stats.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/C4d5">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" alt="Top Languages" />
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
