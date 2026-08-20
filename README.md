@@ -11,7 +11,6 @@
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
 </div>
 
-
 <div style="display: inline_block"><br>
 <img align="center" alt="Cadu-PHP" height="49" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 <img align="center" alt="Cadu-C#" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg">
