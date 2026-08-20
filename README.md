@@ -6,9 +6,9 @@
 
 
 <div> 
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight&langs_count=6&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight&langs_count=6&hide=html,css&token=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"/>
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&token=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"/> 
 </div>
 
 <div style="display: inline_block"><br>
@@ -44,6 +44,4 @@ target="_blank"></a>
 target="_blank"></a>
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=7A1FA2&size=30&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;PHP+%7C+JavaScript;Sempre+evoluindo"/> 
-
-
+<img src="https://readme-typing-svg.herokuapp.com/?color=7A1FA2&size=30&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;PHP+%7C+JavaScript;Sempre+evoluindo"/>
