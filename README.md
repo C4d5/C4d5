@@ -8,7 +8,7 @@
 <div> 
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=C4d5&layout=compact&theme=tokyonight&langs_count=6&hide=html,css"/>
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=C4d5&show_icons=true&theme=tokyonight&count_private=false&include_all_commits=true"/> 
 </div>
 
 <div style="display: inline_block"><br>
